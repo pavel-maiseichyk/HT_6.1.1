@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HT_6.1.1</string>
+    <string name="asking_for_help">Пожалуйста, подскажите, как улучшить код) \n</string>
+    <string name="change_activity_button">change</string>
+</resources>
